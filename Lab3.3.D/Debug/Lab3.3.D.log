@@ -1,0 +1,13 @@
+﻿  Car.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Car.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  lab3.3.D.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Lorry_Private.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\lab3.3.D.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Lorry_Private.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Lorry_Private.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Lorry_Private.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Lorry_Public.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Lorry_Public.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Lab3.3.D\Lorry_Public.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab3.3.D.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.D\Debug\Lab3.3.D.exe
